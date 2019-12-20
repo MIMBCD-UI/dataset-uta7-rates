@@ -18,16 +18,6 @@ In this repository, we present our breast cancer rates of clinicians from our [U
 <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
 </a>
 
-## Pre-Requisites
-
-To run the various *dataset* tools available on the `src/` directory, it is needed:
-
-- [Python 2.6](https://www.python.org/download/releases/2.6/) or [latest](https://www.python.org/downloads/);
-
-- The [pip](https://pypi.org/project/pip/) package management tool;
-
-- The [`sheet-reader`](https://github.com/MIMBCD-UI/sheet-reader) (>= [v1.2.1](https://github.com/MIMBCD-UI/sheet-reader/releases/tag/v1.2.1) version) repository;
-
 ## Instructions
 
 The instructions are as follows. We assume that you already have knowledge over [Git](https://git-scm.com/) and [GitHub](https://github.com/). If not, please follow this [support](https://guides.github.com/activities/hello-world/) information. Any need for support, just open a [New issue](https://github.com/MIMBCD-UI/dataset-uta7-rates/issues/new).
@@ -49,48 +39,6 @@ git clone git@github.com:MIMBCD-UI/dataset-uta7-rates.git
 ```
 cd dataset-uta7-rates/
 ```
-
-### Install
-
-The installation guidelines are as follows. Please, be sure that you follow it correctly.
-
-2.1. Run the following command to install the [library](https://github.com/google/google-api-python-client) using [pip](https://pypi.org/project/pip/):
-
-```
-pip install --upgrade google-api-python-client
-```
-
-2.2. Follow the next step;
-
-### Run
-
-The running guidelines are as follows. Please, be sure that you follow it correctly.
-
-3.1. Run the sample using the following command:
-
-```
-python3 src/core/main.py
-```
-
-3.2. Enjoy our source code!
-
-### Notebooks
-
-You can also run a Notebook to watch some of our `methods` in action. For this goal we are using the well known [Jupyter Notebook](http://jupyter.org/) web application. To run the [Jupyter Notebook](http://jupyter.org/) just follow the steps.
-
-4.1. Get inside our project directory:
-
-```
-cd dataset-uta7-rates/
-```
-
-4.2. Run [Jupyter Notebook](http://jupyter.org/) application by typing:
-
-```
-jupyter notebook
-```
-
-> If you have any question regarding the [Jupyter Notebook](http://jupyter.org/) just follow their [Documentation](http://jupyter.org/documentation). You can also ask for help close to the [Community](http://jupyter.org/community).
 
 ## Information
 
