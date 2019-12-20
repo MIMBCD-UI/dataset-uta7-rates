@@ -130,7 +130,7 @@ Copyright © 2019 [Instituto Superior Técnico (IST)](https://tecnico.ulisboa.pt
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 
-The [`dataset-uta7-rates`](https://github.com/MIMBCD-UI/dataset-uta7-rates) repository is distributed under the terms of both [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/) and the [MIT License](LICENSE). For more information regarding the [License](LICENSE) of the hereby repository, just follow the `[LICENSE](LICENSE)` file.
+The [`dataset-uta7-rates`](https://github.com/MIMBCD-UI/dataset-uta7-rates) repository is distributed under the terms of both [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/) and the [MIT License](LICENSE). For more information regarding the [License](LICENSE) of the hereby repository, just follow the [`LICENSE`](LICENSE) file.
 
 ## Supporting
 
